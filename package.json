@@ -1,0 +1,14 @@
+{
+  "name": "staging-day",
+  "version": "1.0.0",
+  "description": "command line tic-tac-toe",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "author": "chadam189",
+  "license": "ISC",
+  "dependencies": {
+    "mocha": "^4.1.0"
+  }
+}
